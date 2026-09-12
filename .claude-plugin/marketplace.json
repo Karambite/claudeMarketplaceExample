@@ -1,0 +1,14 @@
+{
+  "name": "TI-Sandbox-Marketplace",
+  "owner": {
+    "name": "xyz",
+    "email": "xyz"
+  },
+  "plugins": [
+    {
+      "name": "TI-sensor-controller-agent",
+      "source": "./plugins/TI-sensor-controller-agent",
+      "description": "TI sensor controller agent"
+    }
+  ]
+}
